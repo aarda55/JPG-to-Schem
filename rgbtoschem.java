@@ -4,7 +4,7 @@ import org.bukkit.block.Block;
 import org.bukkit.block.data.BlockData;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class jpgtoschem {
+public class rgbtoschem {
  public Material findClosestBlockMaterial(int red, int green, int blue) {
         Material closestMaterial = null;
         double closestDistance = Double.MAX_VALUE;
